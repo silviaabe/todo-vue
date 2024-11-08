@@ -1,29 +1,30 @@
-# todo-vue
+# Minhas Tarefas
+  Este é um projeto de um site para listar tarefas que você precisa fazer e marcar as que já foram concluídas, desenvolvido com <b>HTML</b>, <b>JavaScript</b> e <b>VueJS</b>, seguindo um exercício do [curso de Engenheiro Front-End](https://ebaconline.com.br/front-end-profession) da EBAC.
 
-This template should help get you started developing with Vue 3 in Vite.
+<br>
 
-## Recommended IDE Setup
+<p align="center">
+  <img alt="Projeto Minhas Tarefas" src="https://github.com/user-attachments/assets/5e3bad00-1837-4acf-a338-38b8b636f91e" width="900">
+</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Como Usar
 
-## Customize configuration
+Ao abrir o site, você poderá adicionar tarefas na sua lista, escrevendo no campo, e clicando em cadastrar. Quando uma tarefa for realizada, é só clicar em cima da tarefa e ela será riscada e marcada como feita. Há a possibilidade também de filtrar as tarefas entre Todas as tarefas, Pendentes ou Finalizadas.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tecnologias
 
-## Project Setup
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```sh
-npm install
-```
+- <b>HTML</b> para a estruturação do conteúdo.
+- <b>JavaScript</b> para fazer a lista funcionar.
+- <b>VueJs</b> para renderização dos elementos do código.
+- <b>Vercel</b> para subir o projeto na web.
 
-### Compile and Hot-Reload for Development
+## Projeto
 
-```sh
-npm run dev
-```
+🚀 [Acesse o projeto finalizado](https://todo-vue-two-ashen.vercel.app/)
 
-### Compile and Minify for Production
+## Autor
 
-```sh
-npm run build
-```
+Silvia Abe - silviaabebuzatto@gmail.com
+
